@@ -1,4 +1,4 @@
-# Capsule Pharmacy Management System hchhchh
+# Capsule Pharmacy Management System 
 
 ## Introduction  
 
