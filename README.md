@@ -4,7 +4,7 @@
 
 Welcome to Capsule Pharmacy Management System, a comprehensive pharmacy management application developed by Vincent Otis. This application is built using Visual Basic (VB) for the front-end and utilizes Microsoft Access as the backend database. Capsule Pharmacy Management System is designed to assist pharmacists and pharmacy staff in efficiently managing their daily operations, including inventory tracking, sales management, customer records, and reporting.
 
-## Features
+## Featureshbhbc
 
 - **Inventory Management**: Keep a precise record of the medicines in stock, including quantity, expiry dates, and reorder levels.
 
